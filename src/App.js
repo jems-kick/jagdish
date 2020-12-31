@@ -105,7 +105,7 @@ cleannameFieldHandeler = () => {
         <div style = {style3}>{fourinput}</div>
         <div style = {style3}>{fiveinput}</div>
         <div style = {style3}>{want1}</div>
-        <button onClick={this.cleannameFieldHandeler}>Clear</button>
+        <button onClick={this.cleannameFieldHandeler}>CLEAR</button>
         {
           this.state.want < newsellrate ?
           <div>
