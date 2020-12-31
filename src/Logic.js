@@ -1,0 +1,1 @@
+import rect from 'react'
